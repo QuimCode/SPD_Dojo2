@@ -1,4 +1,4 @@
-# SPD_Dojo_1
+# SPD_Dojo_2
 # Ejemplo Documentación Dojos
 ![Tinkercad](./img/ArduinoTinkercad.jpg)
 
@@ -10,7 +10,7 @@
 - Quimey Alejo Fontan
 
 
-## Proyecto: Contador binario.
+## Proyecto: Linea de Subte.
 ![Tinkercad](SPD_Dojo2\imagenes\Screenshot5.png)
 
 
