@@ -11,15 +11,15 @@
 
 
 ## Proyecto: Contador binario.
-![Tinkercad](./Screenshot.png)
+![Tinkercad](SPD_Dojo2\Screenshot5.png)
 
 
 ## Descripción
 
------
+-----Pord Definir-----
 ## Función principal
 
------
+-----Pord Definir-----
 
 ~~~ C++ 
 
@@ -28,7 +28,7 @@
 
 ## :nerd_face::point_up: Link al proyecto
 - [Proyecto-01](https://www.tinkercad.com/things/bohlE6rrfxm-fantabulous-wolt-bombul/editel?sharecode=gRI3r6M6rKSs7jDiZMa_ya2EpEsH9X2gUCvA7SZQzC4)
-- [Proyecto-02] ----
+- [Proyecto-02] ----Aun no se hizo----
 ## :tv: Link al video del proceso
 - [video](https://www.youtube.com/watch?v=VyGjE8kx-O0)
 
