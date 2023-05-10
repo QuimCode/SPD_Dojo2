@@ -1,0 +1,60 @@
+/* #define LEDROJA_UNO 13
+#define LEDROJA_DOS 12
+#define LEDROJA_TRES 11
+#define LEDROJA_CUATRO 10
+#define PULSADOR 9
+#define G 5
+#define F 6
+#define A 8
+#define B 7
+#define E 15
+#define D 16
+#define C 17
+#define BUZZER 14
+
+int estado_boton;
+
+void setup()
+{
+  pinMode(PULSADOR, INPUT_PULLUP);
+  pinMode(LEDROJA_UNO, OUTPUT);
+  pinMode(LEDROJA_DOS, OUTPUT);
+  pinMode(LEDROJA_TRES, OUTPUT);
+  pinMode(LEDROJA_CUATRO, OUTPUT);
+  
+  
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  estado_boton = digitalRead(PULSADOR); //1
+  if (Serial.available() > 0) {
+
+    int inByte = Serial.read();
+
+    // do something different depending on the character received.
+
+    // The switch statement expects single number values for each case; in this
+
+    // example, though, you're using single quotes to tell the controller to get
+
+    // the ASCII value for the character. For example 'a' = 97, 'b' = 98,
+
+    // and so forth:
+
+    switch (inByte) {
+
+      case 'a':
+
+        digitalWrite(LEDROJA_UNO, HIGH);
+      	delay(1000);
+      	inByte
+
+        break;
+      default:
+      		digitalWrite(LEDROJA_UNO, LOW);
+      
+	}
+  }
+} */

@@ -11,7 +11,7 @@
 
 
 ## Proyecto: Contador binario.
-![Tinkercad](SPD_Dojo2\Screenshot5.png)
+![Tinkercad](SPD_Dojo2\imagenes\Screenshot5.png)
 
 
 ## Descripción
